@@ -1,0 +1,1 @@
+This repository contains a simple implementation of the matched filter using matlab. It was test with four functions: the rectangle, the sinc, the sine and the identity.
